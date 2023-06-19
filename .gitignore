@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+pyEleven.egg-info
+game_state.json
+README.md
