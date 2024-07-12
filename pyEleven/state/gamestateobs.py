@@ -1,4 +1,4 @@
-from ..models.manager import Manager
+from models.manager import Manager
 
 import datetime as dt
 import sys
@@ -9,8 +9,8 @@ from termcolor import cprint
 from pyfiglet import figlet_format
 
 from . import data
-from ..utils.simulation import intro_text, random_event
-from ..utils.save_load import save_state, load_state
+from utils.simulation import intro_text, random_event
+from utils.save_load import save_state, load_state
 
 import random
 

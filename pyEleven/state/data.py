@@ -1,7 +1,7 @@
-from ..models.club import Club
-from ..models.coach import Coach
-from ..models.goalkeeper import Goalkeeper
-from ..models.player import Player
+from models.club import Club
+from models.coach import Coach
+from models.goalkeeper import Goalkeeper
+from models.player import Player
 
 clubs = []
 

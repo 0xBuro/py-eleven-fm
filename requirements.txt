@@ -1,0 +1,4 @@
+colorama==0.4.6
+pyfiglet==1.0.2
+setuptools==70.3.0
+termcolor==2.4.0

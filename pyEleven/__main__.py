@@ -1,5 +1,5 @@
 # Import der gameState Klasse aus dem gamestateobs module.
-from .state.gamestateobs import gameState as gs
+from state.gamestateobs import gameState as gs
 
 def main():
     '''
